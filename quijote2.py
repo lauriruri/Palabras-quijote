@@ -38,10 +38,10 @@ def main(infilename, outfilename):
         with open(outfilename, 'w') as outfile:
             sc.setLogLevel("ERROR")
             data = sc.textFile(infilename)
-            words_rdd = data.map(lambda x: str(len(x.split())))
-            #outfile.write(str(words_rdd.collect()))
-            outfile.write('RESULTS------------------')
-            outfile.write('words_count')
+            words_rdd = data.map(lambda x: len(x.split()))
+            outfile.write(' '.join(map(str, words_rdd.collect())))
+            outfile.write('\nRESULTS------------------ \n')
+            outfile.write('words_count: ')
             outfile.write(str(words_rdd.sum()))
 
 if __name__=="__main__":
