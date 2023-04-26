@@ -1,0 +1,18 @@
+Hola
+hola.
+esto
+
+es un fichero de pruebas
+con
+Algunos.
+números también
+
+y con algunos, números?
+y
+líneas repetidas
+12
+12
+5
+123
+12341324
+fin.
