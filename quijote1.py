@@ -26,3 +26,9 @@ if __name__=="__main__":
     outfilename = sys.argv[2]
     ratio = float(sys.argv[3])
     main(infilename, outfilename, ratio)
+
+
+'''
+    APARTADO 2
+    Con ese programa genera un fichero que se llame quijote_s05.txt 
+'''
