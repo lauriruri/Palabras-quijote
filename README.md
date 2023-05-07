@@ -22,11 +22,11 @@ Se encuentran aquí:
 
   - 'quijote1.py' y 'quijote_s05.txt', soluciones del ejercicio 1 y 2.
 
+  - 'quijote2.py', solución de los ejercicios 3 y 4.
+
   - 'out_quijote_s05.txt', solución del ejercicio 3.
 
   - 'out_quijote.txt', solución del ejercicio 4.
-
-  - 'quijote2.py', solución de los ejercicios 3 y 4.
 
   - 'quijote3.py', contiene el enunciado del ejercicio 5.
 
