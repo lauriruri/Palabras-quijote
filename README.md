@@ -30,6 +30,7 @@ Se encuentran aquí:
 
   - 'quijote3.py', contiene el enunciado del ejercicio 5.
 
-  - 'Screenshot from 2023-04-28 00-45-41.png', solución del ejercicio 5.
+  - 'Screenshot from 2023-04-28 00-45-41.png', solución del ejercicio 5, pero no estaba subido 'quijote.txt' al hdfs y no devolvía nada.
+  - 'Screenshot from 2023-05-12 13-47-24.png', solución del ejercicio5, esta vez sí estaba subido 'quijote.txt' al hdfs.
 
 
